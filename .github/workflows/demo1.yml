@@ -21,4 +21,4 @@ jobs:
       - name: Build code
         run: npm run build
       - name: Deploy project
-        run: echo "I look forward to deploying"
+        run: echo "Deploying..."
